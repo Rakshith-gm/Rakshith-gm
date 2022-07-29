@@ -3,7 +3,7 @@
 - 👀 I’m interested in Designing Automation Projects frameworks  
 - 🌱 I’m currently learning  @Algoshack startup agile build platform 
 - 💞️ I’m looking to collaborate on ...AlgoAf
-- 📫 How to reach ..mailme@:  rakshith.gm@algoshack.com
+- 📫 How to reach ..mailme@:  rakshith.gm@algoshack.com ||personalmail: rakgow1998@gmail.com
 - “In the long term, artificial intelligence and automation are going to be taking over so much of what gives humans a feeling of purpose.” 
 
 <!---
