@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rakshith-gm
 - AutomationTestEng@-ALGOSHACK.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Designing Automation Projects frameworks  
+- 🌱 I’m currently learning  @Algoshack startup agile build platform 
+- 💞️ I’m looking to collaborate on ...AlgoAf
+- 📫 How to reach ..mailme@:  rakshith.gm@algoshack.com
 - 
 
 <!---
